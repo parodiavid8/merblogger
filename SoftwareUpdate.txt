@@ -1,1 +1,1 @@
-example Google Colab
+Add bgr hyperparameter (#9139)
