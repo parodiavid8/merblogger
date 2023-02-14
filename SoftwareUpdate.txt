@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
