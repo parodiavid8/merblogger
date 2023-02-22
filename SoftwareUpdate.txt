@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Python refactorings and simplifications (#7549)
