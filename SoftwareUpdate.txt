@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
