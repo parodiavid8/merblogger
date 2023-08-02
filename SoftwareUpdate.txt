@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Add new YOLOv8 OBB model metrics (#7379)
