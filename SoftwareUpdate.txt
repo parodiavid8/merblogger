@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Rename model_id to model.id (#8447)
