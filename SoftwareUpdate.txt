@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Add YOLOv8 LibTorch C++ inference example (#7090)
