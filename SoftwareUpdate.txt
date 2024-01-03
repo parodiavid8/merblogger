@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
