@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+ultralytics 8.0.229 add model.embed() method (#7098)
