@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
