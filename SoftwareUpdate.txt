@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Update Discord and Contributing Guide URLs (#9270)
