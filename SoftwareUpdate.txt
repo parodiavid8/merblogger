@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix device counting method to account for double-digit device IDs (#8502)
