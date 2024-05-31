@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
